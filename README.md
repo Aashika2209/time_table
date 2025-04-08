@@ -34,7 +34,7 @@ Execute the program using runserver command.
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="5" border="7" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - VIGNESHWARAN.P (24900068)</b></caption>
+<caption><b>SLOT TIME TABLE - AASHIKA JAIN.G (212224110001)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -120,7 +120,7 @@ Execute the program using runserver command.
 ```
 # OUTPUT
 
-![alt text](<Screenshot (3).png>)
+![timetable](https://github.com/user-attachments/assets/7a49ec80-f368-434e-91e9-0a3d50278cd0)
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
